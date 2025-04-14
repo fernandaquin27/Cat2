@@ -1,0 +1,21 @@
+body {
+    background-color: hsla(16, 87%, 85%, 0.274);
+    font-family: 'nunito', 'Open Sans', 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+}
+
+h1 {
+background-color: rgb(151, 129, 250);
+    color: rgb(237, 39, 148);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.uno {
+color: black;
+font-family: 'nunito', 'Open Sans', 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif
+}
+.dos {
+color: black;
+}
+.tres {
+color: rgb(123, 0, 255);
+}
